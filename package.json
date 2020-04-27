@@ -8,12 +8,11 @@
     "deploy": "twilio-run deploy"
   },
   "devDependencies": {
+    "twilio": "^3.42.2",
     "twilio-run": "^2.0.0"
   },
   "engines": {
     "node": "10.17.0"
   },
-  "dependencies": {
-    "twilio": "^3.42.2"
-  }
+  "dependencies": {}
 }
